@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a robotic arm controlled by an EMG (Electromyography) sensor. The system interprets muscle signals captured by the EMG sensor to control the movements of the robotic arm. This README provides an overview of the project, instructions for setup, and guidelines for contributors.
+This project showcases a robotic arm controlled by an EMG (Electromyography) sensor. The system interprets muscle signals captured by the EMG sensor to enable precise control over the movements of the robotic arm. This README provides an overview of the project, setup instructions, and guidelines for contributors.
 
 ## Table of Contents
 
@@ -16,65 +16,57 @@ This project demonstrates a robotic arm controlled by an EMG (Electromyography) 
 
 ## Features
 
-- Intuitive control of the robotic arm using EMG signals.
-- Gesture recognition for different movements.
-- Modular firmware for easy customization and extension.
+- Intuitive control of the robotic arm using sEMG signals.
+- Gesture recognition for various movements.
+- Modular firmware for customization and extension.
 
 ## Hardware
 
 ### CAD Designs
 
-- Link to CAD models or drawings for the robotic arm components.
+- [Link to CAD models](hardware/CAD_Models) or drawings for the robotic arm components.
 
 ### Schematics
 
-- Link to electronic schematics for microcontroller, motors, and EMG sensor connections.
+- [Link to electronic schematics](hardware/Schematics) for microcontroller, motors, and sEMG sensor connections.
 
 ### Bill of Materials (BOM)
 
-- List of all hardware components with part numbers and links.
+- [List of hardware components](hardware/BOM.md) with part numbers and links.
 
 ### Assembly Instructions
 
-- Step-by-step instructions for assembling the robotic arm and integrating the EMG sensor.
+- [Step-by-step instructions](hardware/Assembly_Instructions.md) for assembling the robotic arm and integrating the sEMG sensor.
 
 ## Software
 
 ### Microcontroller Code
 
-- Link to the firmware for the microcontroller (e.g., Arduino, Raspberry Pi).
-- Divide the code into relevant modules (motor control, EMG signal processing).
+- [Link to the Arduino code](software/Arduino_Code) for motor control and sEMG signal processing.
 
 ### Control Interface
 
-- Software for interacting with the robotic arm, allowing control using EMG signals.
-- Specify whether it's a desktop application, web-based interface, or mobile app.
+- [Link to the control software](software/Control_Interface) for interacting with the robotic arm, specifying whether it's a desktop application, web-based interface, or mobile app.
 
 ### Signal Processing
 
-- Code for processing and interpreting EMG signals.
-- Algorithms for gesture recognition or muscle activation.
+- [Link to code](software/Signal_Processing) for processing and interpreting sEMG signals, including algorithms for gesture recognition.
 
 ## Getting Started
 
-- Instructions on setting up the hardware and installing the required software.
-- Dependencies and configuration files.
+- [Setup instructions](getting_started.md) for the hardware and software.
+- [Dependencies](software/Dependencies.md) and configuration files.
 
 ## Usage
 
-- Guidelines on how to use the robotic arm.
-- Any specific gestures or commands recognized by the system.
+- [Guidelines on how to use](usage.md) the robotic arm.
+- List of [recognized gestures](usage/Gestures.md) and commands.
 
 ## Contributing
 
-- Guidelines for contributors.
-- Information on how to report issues and submit pull requests.
+- [Guidelines for contributors](CONTRIBUTING.md).
+- Information on [reporting issues](CONTRIBUTING.md#reporting-issues) and [submitting pull requests](CONTRIBUTING.md#submitting-pull-requests).
 
 ## License
 
 This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-**Note:** Customize the sections, placeholders, and links according to your specific project details and structure.
-
