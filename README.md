@@ -1,5 +1,4 @@
-# Robotic Arm with EMG Sensor Control
-
+# Prosthetic Limb Control using Electromyography (EMG) Sensor
 ## Overview
 
 This project showcases a robotic arm controlled by an EMG (Electromyography) sensor. The system interprets muscle signals captured by the EMG sensor to enable precise control over the movements of the robotic arm. This README provides an overview of the project, setup instructions, and guidelines for contributors.
