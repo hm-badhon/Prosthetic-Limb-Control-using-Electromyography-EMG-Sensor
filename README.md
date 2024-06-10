@@ -12,64 +12,25 @@ This project showcases a robotic arm controlled by an EMG (Electromyography) sen
 - [Features](#features)
 - [Hardware](#hardware)
 - [Software](#software)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
 - Intuitive control of the robotic arm using sEMG signals.
-- Gesture recognition for various movements.
-- Modular firmware for customization and extension.
 
-## Hardware
+### Read the ppt file fro more details
 
-### CAD Designs
 
-- [Link to CAD models](hardware/CAD_Models) or drawings for the robotic arm components.
+## Author
 
-### Schematics
+- **H.M. Mehedi Hasan (Badhon)**
 
-- [Link to electronic schematics](hardware/Schematics) for microcontroller, motors, and sEMG sensor connections.
+![85755347](https://github.com/hm-badhon/Natural_Language_Processing_NLP_with_hmb/assets/85755347/1c4c9b08-71fe-463d-8117-cc2b23acb3d9)
 
-### Bill of Materials (BOM)
-
-- [List of hardware components](hardware/BOM.md) with part numbers and links.
-
-### Assembly Instructions
-
-- [Step-by-step instructions](hardware/Assembly_Instructions.md) for assembling the robotic arm and integrating the sEMG sensor.
-
-## Software
-
-### Microcontroller Code
-
-- [Link to the Arduino code](software/Arduino_Code) for motor control and sEMG signal processing.
-
-### Control Interface
-
-- [Link to the control software](software/Control_Interface) for interacting with the robotic arm, specifying whether it's a desktop application, web-based interface, or mobile app.
-
-### Signal Processing
-
-- [Link to code](software/Signal_Processing) for processing and interpreting sEMG signals, including algorithms for gesture recognition.
-
-## Getting Started
-
-- [Setup instructions](getting_started.md) for the hardware and software.
-- [Dependencies](software/Dependencies.md) and configuration files.
-
-## Usage
-
-- [Guidelines on how to use](usage.md) the robotic arm.
-- List of [recognized gestures](usage/Gestures.md) and commands.
-
+  - [GitHub Profile](https://github.com/hm-badhon)
+  - [LinkedIn Profile](https://bd.linkedin.com/in/h-m-mehedi-hasan-575563159)
+  - [Email](mailto:h.m.badhoneee@gmail.com)
+  - Associate Robotics Engineer, NSL
+    
 ## Contributing
 
-- [Guidelines for contributors](CONTRIBUTING.md).
-- Information on [reporting issues](CONTRIBUTING.md#reporting-issues) and [submitting pull requests](CONTRIBUTING.md#submitting-pull-requests).
-
-## License
-
-This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+Contributions and suggestions are welcome! If you have any ideas to enhance the repository or want to report issues, please feel free to open an issue or submit a pull request.
