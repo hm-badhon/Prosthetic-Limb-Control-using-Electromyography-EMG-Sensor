@@ -17,7 +17,7 @@ This project showcases a robotic arm controlled by an EMG (Electromyography) sen
 
 - Intuitive control of the robotic arm using sEMG signals.
 
-### Read the ppt file fro more details
+### Read the ppt file for more details
 
 
 ## Author
